@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "openai-swarm-examples"
+version = "0.1.0"
+description = ""
+authors = ["Christopher Lillthors <christopher@lillthors.dev>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
