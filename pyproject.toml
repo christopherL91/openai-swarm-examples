@@ -7,6 +7,10 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.12"
+swarm = {git = "ssh://git@github.com/openai/swarm.git"}
+pyowm = "^3.3.0"
+setuptools = "^75.1.0"
+slack-sdk = "^3.33.1"
 
 
 [build-system]

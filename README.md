@@ -1,2 +1,3 @@
 # openai-swarm-examples
-dotfiles
+
+Simple example of using openai Swarm library to create intelligent agents.
